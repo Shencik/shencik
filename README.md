@@ -2,6 +2,16 @@
 <h1 align="center">Hi 👋, I'm Shen</h1>
 <h3 align="center">I'm the Founder of Junior Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shencik&label=Profile%20views&color=0e75b6&style=flat" alt="shencik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shencik" alt="shencik" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/byshen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="byshen" height="30" width="40" /></a>
@@ -17,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shencik&show_icons=true&locale=en" alt="shencik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shencik&" alt="shencik" /></p>
+
