@@ -1,5 +1,5 @@
 ![MasterHead](https://cdn.discordapp.com/banners/1080924248421453875/d330ea04247c5ff66873b9da8f689fe6.webp?size=4096)
-<h1 align="center">Hi 👋, I'm Shen</h1>
+<h1 align="center">Hi, I'm Shen</h1>
 <h3 align="center">I'm the Founder of Junior Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
